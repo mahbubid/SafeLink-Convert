@@ -1,5 +1,5 @@
 /*
-Safelink converter by buby
+Safelink converter by cuwil
 ####Capter1 buatlah sebuah situs atau halaman untuk mesin penerjemah link (ex:http://goo.gl/1cCQv8), must by step :
 1. pada tag body pastikan ditambah kondisi onload :
 <body onload="load()">
